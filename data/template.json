@@ -1,1 +1,32 @@
-
+{
+    "Template": [
+      {
+        "ID": "X",
+        "OrgName": "Name of Terrorist Organization",
+        "OrgArea": "Countries Where Terrorist Organization Attacks",
+        "OrgYear": "Date of Establishment of Terrorist Organization",
+        "OrgCenter": "Command Center of the Terrorist Organization",
+        "OrgLeader": "Founder of Terrorist Organization",
+        "OrgAllies": "Collaborative Organizations of the Terrorist Organization",
+        "OrgOpponents": "Organizations Against Terrorist Organization",
+        "OrgIdeology": "The Ideology of the Terrorist Organization",
+        "OrgWebsite": "Terrorist Organization's Website",
+        "Status": "true"
+      }
+    ],
+  "Template2": [
+      {
+        "ID": "X",
+        "OrgName": "Name of Terrorist Organization",
+        "OrgArea": "Countries Where Terrorist Organization Attacks",
+        "OrgYear": "Date of Establishment of Terrorist Organization",
+        "OrgCenter": "Command Center of the Terrorist Organization",
+        "OrgLeader": "Founder of Terrorist Organization",
+        "OrgAllies": "Collaborative Organizations of the Terrorist Organization",
+        "OrgOpponents": "Organizations Against Terrorist Organization",
+        "OrgIdeology": "The Ideology of the Terrorist Organization",
+        "OrgWebsite": "Terrorist Organization's Website",
+        "Status": "true"
+      }
+    ]
+}
