@@ -1,0 +1,54 @@
+{
+   "PKK":[
+      {
+         "ID":"0",
+         "OrgName":"PKK (Kurdistan Workers' Party)",
+         "OrgArea":[
+            "Turkey",
+            "Iraq",
+            "Iran",
+            "Syria"
+         ],
+         "OrgYear":"November 27, 1978",
+         "OrgCenter":"Kandil, Iraq",
+         "OrgLeader":"Abdullah Öcalan",
+         "OrgAllies":[
+            "PYD",
+            "YPG",
+            "YPJ",
+            "PJAK",
+            "YBŞ",
+            "YJÊ",
+            "MUB",
+            "IFB",
+            "BÖG",
+            "MLKP",
+            "TİKKO",
+            "PUK"
+         ],
+         "OrgOpponents":[
+            "Turkey",
+            "Turkey's Village Guards",
+            "Kurdish Hezbollah",
+            "Grey Wolves",
+            "Islamic State",
+            "Al-Qaeda",
+            "KDP",
+            "Iraq",
+            "Iran",
+            "United States",
+            "Israel"
+         ],
+         "OrgIdeology":[
+            "Kurdish Nationalism",
+            "Democratic Confederalism",
+            "Libertarian Socialism",
+            "Anti-Capitalism",
+            "Communalism",
+            "Jineology"
+         ],
+         "OrgWebsite":"pkk-online.com",
+         "Status":"true"
+      }
+   ]
+}
