@@ -10,6 +10,7 @@
         "OrgAllies": "Collaborative Organizations of the Terrorist Organization",
         "OrgOpponents": "Organizations Against Terrorist Organization",
         "OrgIdeology": "The Ideology of the Terrorist Organization",
+        "OrgDescription": "It is a short description text about the organization created from reliable sources.",
         "OrgWebsite": "Terrorist Organization's Website",
         "Status": "true"
       }
@@ -25,6 +26,7 @@
         "OrgAllies": "Collaborative Organizations of the Terrorist Organization",
         "OrgOpponents": "Organizations Against Terrorist Organization",
         "OrgIdeology": "The Ideology of the Terrorist Organization",
+        "OrgDescription": "It is a short description text about the organization created from reliable sources.",
         "OrgWebsite": "Terrorist Organization's Website",
         "Status": "true"
       }
